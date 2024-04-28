@@ -7,9 +7,36 @@ body{
     background-color: rgb(180, 124, 231);
 }
 
+
+
 main{
     background-color: white;
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.493);
+}
+
+h1{
+    font-size: 2cm;
+    color: rgb(25, 0, 255);
+}
+
+h2{
+    font-size: 1cm;
+    color: rgb(17, 0, 255);
+}
+
+img.lado{
+    float: right;
+}
+
+a{
+    text-decoration: nome;
+    font-weight: bold;
+    color: rgba(4, 0, 255, 0.815);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgba(23, 17, 80, 0.973);
 }
